@@ -6,12 +6,16 @@ public class Day26 {
         int a = 10; 
         int b = 7;
         
-        System.out.println(a == b); // false
-        System.out.println(a != b); // true
-        System.out.println(a < b); // false
-        System.out.println(a > b); // true
-        System.out.println(a >= b); // true
-        System.out.println(a <= b); // false    
+        a += b;
+        System.out.println(a);
+        a -= b;
+        System.out.println(a);
+        a /= b;
+        System.out.println(a);
+        a *= b;
+        System.out.println(a);
+        a %= b;
+        System.out.println(a);   
     }
     
 }
