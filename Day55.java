@@ -14,7 +14,7 @@ public class Irbdd {
         System.out.print("Angka : ");
         int c = in.nextInt();
 
-        if (c > a && c < b) {
+        if (c >= a && c <= b) {
             System.out.println("YAYAYAYA");
         } else {
             System.out.println("NONONONO");
