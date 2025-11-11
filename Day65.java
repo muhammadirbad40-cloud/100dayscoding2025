@@ -7,7 +7,8 @@ public class Irbdd {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Masukkan N : ");
+        System.out.println("===MENENTUKAN KELIPATAN===");
+        System.out.print("Masukkan angka : ");
         int n = in.nextInt();
 
         int total = 1;
