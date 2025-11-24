@@ -18,7 +18,6 @@ public class Irbdd {
         System.out.println("equalsIgnoreCase : "+kalimat.equalsIgnoreCase(nama));
         System.out.println("Contains : "+kalimat.contains("Irbad"));
         System.out.println("IsEmpty : "+kalimat.isEmpty());
-        System.out.println("IsEmpty : "+kalimat.isEmpty());
 
     }
 }
