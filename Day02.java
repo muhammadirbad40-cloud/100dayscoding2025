@@ -26,7 +26,7 @@ public class PrintlnPrintPrintf {
         (untuk menampilkan 2 angka dibelakang koma pakai " %.2.f "
          umtuk menampilkan banyak angka dibelakang koma pakai " %f " */
         System.out.printf(" nama saya : %s ,umur : %dtahun ,Tinggi Badan : %.2f ",nama, umur, tb); 
-        //nama saya : mohammad rasya romadhan ,umur : 19tahun ,Tinggi Badan : 168,00//   
+       
     }
     
 }
